@@ -18,7 +18,7 @@ REPO:  <a href=""></a>
 
 ### Amazon example available:
 
-LINK : <a href="https://ngraph-amazon.herokuapp.com/#?q=books">https://ngraph-amazon.herokuapp.com</a>
+LINK : <a href="https://ngraph-amazon.herokuapp.com/#?q=books">https://ngraph-amazon.herokuapp.com/#?q=books</a>
 
 REPO:  <a href="https://github.com/donc310/vue-graph-amazon">https://github.com/donc310/vue-graph-amazon</a>
 
