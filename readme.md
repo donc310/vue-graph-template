@@ -11,14 +11,14 @@ The main component of the template is [App.vue](src/components/core/App.vue).
 
 ### Youtube example available:
 
-LINK : <a href="https://ngraph-youtube.herokuapp.com">https://ngraph-youtube.herokuapp.com</a>
+LINK : <a href="https://ngraph-youtube.herokuapp.com/#?q=baby">https://ngraph-youtube.herokuapp.com</a>
 
 REPO:  <a href=""></a>
 
 
 ### Amazon example available:
 
-LINK : <a href="https://ngraph-amazon.herokuapp.com">https://ngraph-amazon.herokuapp.com</a>
+LINK : <a href="https://ngraph-amazon.herokuapp.com/#?q=books">https://ngraph-amazon.herokuapp.com</a>
 
 REPO:  <a href=""></a>
 
@@ -30,16 +30,15 @@ REPO:  <a href=""></a>
 
 3. Create an `App.vue` file in in src/components/app which will be  the entry point of your app 
 
-4. Import  EventBus  from src/component/util/event.js
+4. Import   `EventBus`  from  `src/component/util/event.js`
 
-5. then either build or serve your 
-### Compiles and hot-reloads for development
-
+5. then either build or serve your app using 
+#### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+OR
+#### Compiles and minifies for production
 
 ```
 npm run build
