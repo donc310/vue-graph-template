@@ -20,7 +20,7 @@ REPO:  <a href=""></a>
 
 LINK : <a href="https://ngraph-amazon.herokuapp.com/#?q=books">https://ngraph-amazon.herokuapp.com</a>
 
-REPO:  <a href=""></a>
+REPO:  <a href="https://github.com/donc310/vue-graph-amazon">https://github.com/donc310/vue-graph-amazon</a>
 
 ### HOW TO USE:
 
