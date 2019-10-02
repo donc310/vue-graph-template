@@ -115,23 +115,23 @@ mounted() {
 
 
 
-#### `"CORE::BEFORE_INIT`
+#### `"CORE::BEFORE_INIT"`
 
 Fired before the graph is initiated
 
-#### `CORE::NODE_SELECTED`
+#### `"CORE::NODE_SELECTED"`
 
 emits: `{ Node }`
 
 Fired when a node is clicked.
 
-#### `CORE::NODES_UPDATE`
+#### `"CORE::NODES_UPDATE"`
 
 emits: `{Nodes}`
 
 Fired when the nodes change
 
-#### `CORE::BEFORE_DISPOSE`
+#### `"CORE::BEFORE_DISPOSE"`
 
 Fired before the graph is disposed.
 
